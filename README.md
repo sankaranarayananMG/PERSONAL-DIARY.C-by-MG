@@ -1,0 +1,5 @@
+# PERSONAL DIARY MANAGEMENT SYSTEM IN C LANGUAGE
+
+BHC project on I Bvoc it 
+M.Sankaranarayanan
+215915143
