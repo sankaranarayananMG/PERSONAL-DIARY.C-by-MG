@@ -1,6 +1,6 @@
 # PERSONAL DIARY MANAGEMENT SYSTEM IN C/C++ LANGUAGE
 
-BHC project on I Bvoc it 
+BHC project on 1st year Bvoc it 
 M.Sankaranarayanan
 215915143
 
